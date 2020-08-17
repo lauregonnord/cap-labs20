@@ -1,4 +1,4 @@
-# cap-labs
+# cap-labs 2020
 Public files for ENSL M1 students (CAP course)
 
 ![ensllogo](logos/logo_ensl.png)
