@@ -18,4 +18,10 @@ Lexing, Parsing, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-2
 
 - :book: Cours 6: Représentations intermédiaires, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours06_irs.pdf),   [vidéo 1 (CFG, DAG, BB)](https://www.youtube.com/watch?v=dD9bRhLfykM) ; [vidéo 2 (BB scheduling)](https://www.youtube.com/watch?v=Xico_JTK3XQ) - Ajout CAP Static Single Assigment TBD.
 	
-- :book: Cours 7: Analyses dataflow et allocation de registres, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours07_regalloc.pdf), vidéo TBD.
+- :book: Cours 7: Analyses dataflow et allocation de registres, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours07_regalloc.pdf), [vidéo 1 regalloc](https://www.youtube.com/watch?v=9902mMgDIK8) [vidéo2 DF](https://youtu.be/LknSDccweFw)
+
+- :book: Cours 8: Interprétation Abstraite, TBD
+
+- :book: Cours 9: Génération de code pour les fonctions, [vidéo](https://youtu.be/N2rQhJJcQls)
+
+- :book: Cours 10: Parallélisme, TBD
