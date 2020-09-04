@@ -3,16 +3,13 @@ _Année 2020-2021_
 
 * Laure Gonnord, Université Lyon 1, LIP http://laure.gonnord.org/pro/
 * Version : 19/08/2020
-
+* Page sur le portail des études ENSL : https://etudes.ens-lyon.fr/course/view.php?id=4259
 
 # Semaine 1: 
 
 - :book: Première Séance de Cours: Lundi 7/9/2020, 13h30. (Laure Gonnord) (Lien BBB à venir)
-
 	* Introduction: [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours01_intro_et_archi.pdf), [vidéo 1 (intro)](https://www.youtube.com/watch?v=zGifE8MfPWA), [vidéo 2 (RISCV)](https://www.youtube.com/watch?v=UlUTSsOA9Qc).
-	
 	* ISA de [ref pdf RISCV](https://compil-lyon.gitlabpages.inria.fr/cap20/RISCV-ISA-2020.pdf).
-
 	* Lexing, Parsing, [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours02_lexing_parsing.pdf), [vidéo 1 (lexing)](https://www.youtube.com/watch?v=UlUTSsOA9Qc), [vidéo 2(parsing)](https://www.youtube.com/watch?v=y9MrfDzrAmA).
 
 
