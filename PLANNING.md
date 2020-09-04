@@ -2,7 +2,6 @@
 _Année 2020-2021_
 
 * Laure Gonnord, Université Lyon 1, LIP http://laure.gonnord.org/pro/
-* Version : 19/08/2020
 * Page sur le portail des études ENSL : https://etudes.ens-lyon.fr/course/view.php?id=4259
 
 # Semaine 1: 
