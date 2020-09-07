@@ -8,7 +8,8 @@ _Année 2020-2021_
 
 - :book: Première Séance de Cours: Lundi 7/9/2020, 13h30. (Laure Gonnord)
 
-	* RDV sur BBB à 13h30. [BBBlink](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490).
+	* RDV sur BBB à 13h30. Attention changement de lien !!
+	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
 	* [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_07_script.md) for non-french speakers (slides are in English, videos are not).
 	* Introduction: [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours01_intro_et_archi.pdf), [vidéo 1 (intro)](https://www.youtube.com/watch?v=zGifE8MfPWA), [vidéo 2 (RISCV)](https://www.youtube.com/watch?v=UlUTSsOA9Qc).
 	* ISA de [ref pdf RISCV](https://compil-lyon.gitlabpages.inria.fr/cap20/RISCV-ISA-2020.pdf).
