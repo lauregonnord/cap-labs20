@@ -11,7 +11,8 @@ _Année 2020-2021_
 	* RDV sur BBB à 13h30. Attention changement de lien !!
 	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
 	* [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_07_script.md) for non-french speakers (slides are in English, videos are not).
-	* Introduction: [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours01_intro_et_archi.pdf), [vidéo 1 (intro)](https://www.youtube.com/watch?v=zGifE8MfPWA), [vidéo 2 (RISCV)](https://youtu.be/ZdElX9e_tAI?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm).
+	* Introduction: [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours01_intro_et_archi.pdf), [vidéo 1 (intro)](https://www.youtube.com/watch?v=zGifE8MfPWA), [vidéo 2 (RISCV)](https://youtu.be/ZdElX9e_tAI?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm). 
+	* Ex 4 + Ex 5 (du TP1 plus bas) pendant la séance. [Un exercice optionnel](https://compil-lyon.gitlabpages.inria.fr/cap20/riscv5_ex.pdf) si vous voulez !
 	* ISA de [ref pdf RISCV](https://compil-lyon.gitlabpages.inria.fr/cap20/RISCV-ISA-2020.pdf).
 	* Lexing, Parsing, [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours02_lexing_parsing.pdf), [vidéo 1 (lexing)](https://www.youtube.com/watch?v=UlUTSsOA9Qc), [vidéo 2(parsing)](https://www.youtube.com/watch?v=y9MrfDzrAmA).
 
