@@ -15,9 +15,10 @@ _Année 2020-2021_
 	* Lexing, Parsing, [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours02_lexing_parsing.pdf), [vidéo 1 (lexing)](https://www.youtube.com/watch?v=UlUTSsOA9Qc), [vidéo 2(parsing)](https://www.youtube.com/watch?v=y9MrfDzrAmA).
 
 
-- :hammer: Première Séance de TP: Mardi 8/9/2020, 8h. (Paul Iannetta & Laure Gonnord) (Moitié présentiel en amphi B, distanciel sur BB)
+- :hammer: Première Séance de TP: Mardi 8/9/2020, 8h. (Paul Iannetta & Laure Gonnord) (Moitié présentiel en amphi B, distanciel sur BBB)
 
-	* Avant: les installations prévues, si vous souhaitez utiliser vos machines personnelles. Sinon, il s'agira uniquement de modifier quelques paramètres utilisateurs sur les machines de TP de l'école. Pour cela lire le [Howto](https://github.com/lauregonnord/cap-labs20/blob/master/INSTALL.md) dans le [git étudiant CAP](https://github.com/lauregonnord/cap-labs20).
+	* Cloner le  [git étudiant CAP](https://github.com/lauregonnord/cap-labs20).
+	* Avant: les installations prévues, si vous souhaitez utiliser vos machines personnelles. Sinon, il s'agira uniquement de modifier quelques paramètres utilisateurs sur les machines de TP de l'école. Pour cela lire le [Howto](https://github.com/lauregonnord/cap-labs20/blob/master/INSTALL.md) dans le git étudiant.
 	* Revisualiser une partie des transparents RISCV.
 	* RDV à 8h sur [BBB](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490).
 	* L'[énoncé de TP](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp1.pdf)
