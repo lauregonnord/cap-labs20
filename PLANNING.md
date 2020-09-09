@@ -29,7 +29,10 @@ _Année 2020-2021_
 - :book: Deuxième Séance de Cours: Jeudi 10/9/2020, 10h. (Ludovic Henrio)
 
 	* RDV à 10h sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
-	* Introduction: [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours03b_semantics.pdf), [vidéo 1 (intro)](https://youtu.be/VGUgKBzjlIQ), [vidéo 2 (miniwhile)](https://youtu.be/TE8O9T4zjyE), [vidéo 3 (miniML)](https://youtu.be/-5VAGgg2Jos)
+	* [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours03b_semantics.pdf) et [Script en anglais des vidéos](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_10_script.md).
+	* Introduction:  [vidéo 1 (intro)](https://youtu.be/VGUgKBzjlIQ)
+	* Sémantique opérationnelle mini-while [vidéo 2 (miniwhile)](https://youtu.be/TE8O9T4zjyE), et la [preuve de la vidéo (min48)](https://compil-lyon.gitlabpages.inria.fr/cap20/miniwhile_opsem_proofs.pdf)
+	* Sémantique opérationnelle mini-ml: [vidéo 3 (miniML)](https://youtu.be/-5VAGgg2Jos)
 
 
 # Semaine 2: 
