@@ -34,11 +34,24 @@ _Année 2020-2021_
 	* Sémantique opérationnelle mini-while [vidéo 2 (miniwhile)](https://youtu.be/TE8O9T4zjyE), et la [preuve de la vidéo (min48)](https://compil-lyon.gitlabpages.inria.fr/cap20/miniwhile_opsem_proofs.pdf)
 	* Sémantique opérationnelle mini-ml: [vidéo 3 (miniML)](https://youtu.be/-5VAGgg2Jos)
 
+- :rocket: Additional ressources (mainly in english)
+
+	*  A nice YT video on [structural induction](https://www.youtube.com/watch?v=2o3EzvfgTiQ) by F. Pereira, one of our brasilian collaborators.
+	* Fernando Pereira's other videos on operational semantics : [video1](https://www.youtube.com/watch?v=bOzbRhXvtlY), [video2](https://www.youtube.com/watch?v=aiBKOuM5iEA)
+
+
 
 # Semaine 2: 
 
 - :book: Troisième Séance de Cours: Lundi 14/09/2020, 13h30 (Laure Gonnord)
 
-  * RDV sur BBB (lien à déterminer)
-  * Sémantique et interprètes : TBD
-
+  * RDV sur [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+  * First replay the following video (summary of Lexing and Parsing phase): [from15:38](https://youtu.be/y9MrfDzrAmA?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm&t=936)
+  * Sémantique et interprètes : [slides in english](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours03_interpreters.pdf) and [video](https://www.youtube.com/watch?v=8PYhBsgRO6g)
+  * [Demo files](https://compil-lyon.gitlabpages.inria.fr/cap20/ANTLRExamples.tar.xz)
+  * [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_14_script.md) for non-french speakers (slides are in English, videos are not).
+  * An attribution [exercice](https://compil-lyon.gitlabpages.inria.fr/cap20/grammar_attributes_ex.pdf)
+  
+- :hammer: No Lab this week, however we will make some install during the course slot
+  * TODO (technically not _required_ for this week): log [on tomuss-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021/) with your ENS account.
+  * Make the first steps of [lab2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp2.pdf) to install and play with ANTLR.
