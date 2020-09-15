@@ -26,7 +26,7 @@ _Année 2020-2021_
 	* L'[énoncé de TP](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp1.pdf)
 
 	
-- :book: Deuxième Séance de Cours: Jeudi 10/9/2020, 10h. (Ludovic Henrio)
+- :book: Deuxième Séance de Cours: Jeudi 10/9/2020, 10h15. (Ludovic Henrio)
 
 	* RDV à 10h sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
 	* [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours03b_semantics.pdf) et [Script en anglais des vidéos](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_10_script.md).
@@ -50,8 +50,28 @@ _Année 2020-2021_
   * Sémantique et interprètes : [slides in english](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours03_interpreters.pdf) and [video](https://www.youtube.com/watch?v=8PYhBsgRO6g)
   * [Demo files](https://compil-lyon.gitlabpages.inria.fr/cap20/ANTLRExamples.tar.xz)
   * [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_14_script.md) for non-french speakers (slides are in English, videos are not).
-  * An attribution [exercice](https://compil-lyon.gitlabpages.inria.fr/cap20/grammar_attributes_ex.pdf)
+  * An attribution [exercice](https://compil-lyon.gitlabpages.inria.fr/cap20/grammar_attributes_ex.pdf), 
   
 - :hammer: No Lab this week, however we will make some install during the course slot
   * TODO (technically not _required_ for this week): log [on tomuss-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021/) with your ENS account.
   * Make the first steps of [lab2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp2.pdf) to install and play with ANTLR.
+
+
+- :book: Quatrième Séance de Cours: Jeudi 17/9/2020, 10h15. (Ludovic Henrio)
+  
+  * RDV sur [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+  * Fin de sémantique opérationnelle mini-ml: [vidéo (miniML)](https://youtu.be/-5VAGgg2Jos) (the script is [here](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_10_script.md).)
+  * Typage, introduction, et typage de mini-while [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours04_typing.pdf) [vidéo](https://youtu.be/2A-hQy_6YlE), english scripts TBD
+  * Sûreté du typage de mini-while [deuxième partie de ces transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours04b_typingML_safety.pdf) [vidéo](https://youtu.be/qNhBEsKLNco) english scripts TBD
+	
+	
+# Semaine 3 TBA
+
+
+- :hammer: Deuxième Séance de TP: Lundi 21/9/2020, 13h30.
+	* [pdf for lab2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp2.pdf)
+	* All installs should be done before this session!
+	
+
+- :book: Cinquième Séance de Cours: Jeudi 24/9/2020, 10h15. (Gabriel Radanne)
+
