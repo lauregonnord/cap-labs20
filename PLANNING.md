@@ -61,9 +61,15 @@ _Année 2020-2021_
   
   * RDV sur [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
   * Fin de sémantique opérationnelle mini-ml: [vidéo (miniML)](https://youtu.be/-5VAGgg2Jos) (the script is [here](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_10_script.md).)
-  * Typage, introduction, et typage de mini-while [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours04_typing.pdf) [vidéo](https://youtu.be/2A-hQy_6YlE), english scripts TBD
-  * Sûreté du typage de mini-while [deuxième partie de ces transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours04b_typingML_safety.pdf) [vidéo](https://youtu.be/qNhBEsKLNco) english scripts TBD
-	
+  * Typage, introduction, et typage de mini-while [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours04_typing.pdf) [vidéo](https://youtu.be/2A-hQy_6YlE).
+  * Sûreté du typage de mini-while [deuxième partie de ces transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours04b_typingML_safety.pdf) [vidéo](https://youtu.be/qNhBEsKLNco). The proof on [paper(scanned pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/Handproofssafety.pdf)
+  * English script for these [two videos](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_17_script.md)
+
+
+- :rocket: Additional ressources (mainly in english)
+
+	* Fernando Pereira's videos (in English) for type systems: : [video1](https://www.youtube.com/watch?v=AtFH_6yzC1Y) (there are 4 of such nice videos).
+
 	
 # Semaine 3 TBA
 
@@ -71,6 +77,7 @@ _Année 2020-2021_
 - :hammer: Deuxième Séance de TP: Lundi 21/9/2020, 13h30.
 	* [pdf for lab2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp2.pdf)
 	* All installs should be done before this session!
+    * RDV sur [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	
 
 - :book: Cinquième Séance de Cours: Jeudi 24/9/2020, 10h15. (Gabriel Radanne)
