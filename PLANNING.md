@@ -28,7 +28,7 @@ _Année 2020-2021_
 	
 - :book: Deuxième Séance de Cours: Jeudi 10/9/2020, 10h15. (Ludovic Henrio)
 
-	* RDV à 10h sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
+	* RDV à 10h15 sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
 	* [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours03b_semantics.pdf) et [Script en anglais des vidéos](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_10_script.md).
 	* Introduction:  [vidéo 1 (intro)](https://youtu.be/VGUgKBzjlIQ)
 	* Sémantique opérationnelle mini-while [vidéo 2 (miniwhile)](https://youtu.be/TE8O9T4zjyE), et la [preuve de la vidéo (min48)](https://compil-lyon.gitlabpages.inria.fr/cap20/miniwhile_opsem_proofs.pdf)
@@ -82,6 +82,10 @@ _Année 2020-2021_
 	
 
 - :book: Cinquième Séance de Cours: Jeudi 24/9/2020, 10h15. (Gabriel Radanne)
-    * RDV sur [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490) 
-	* Sûreté du typage de mini-while et exercices. (TBA)
+	* RDV à 10h15 sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
+	* Typage de miniML et sûreté :  [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours04b_typingML_safety.pdf) 
+	* [Video 1](https://youtu.be/8LNEeffQks0), [Video 2](https://www.youtube.com/watch?v=jub4CzctrTs), [Video](https://youtu.be/4qHX_F5W6jo) [Script en anglais des vidéos](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md).
+	* Exos : TBD
+   
+
 

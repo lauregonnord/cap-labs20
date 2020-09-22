@@ -4,7 +4,7 @@ import glob
 import sys
 from test_expect_pragma import TestExpectPragmas
 
-ALL_FILES = glob.glob('./testfiles/hello*.txt')
+ALL_FILES = glob.glob('./testfiles/*.txt')
 
 # only test programs of these shapes!
 # ALL_FILES = glob.glob('./testfiles/test*.txt')

@@ -2,7 +2,7 @@ grammar Arit2;
 
 // MIF08@Lyon1 and CAP@ENSL, arit evaluator
 
-// Header in Python, comment it out to use grun
+//Header in Python, comment it out to use grun
 @header {
 # header - mettre les variables globales
 import sys
@@ -16,8 +16,21 @@ class DivByZero(Exception):
 
 }
 
-prog: ID {print("prog = "+str($ID.text));} ;
+prog: expr ';' EOF;
 
+expr : expr '+' term
+    | term
+    ;
+
+term : term '*' fact
+    | fact
+    ;
+
+
+fact : ID
+    | '(' expr ')'
+    | INT
+    ;
 
 COMMENT
  : '//' ~[\r\n]* -> skip
