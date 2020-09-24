@@ -84,6 +84,6 @@ _Année 2020-2021_
 - :book: Cinquième Séance de Cours: Jeudi 24/9/2020, 10h15. (Gabriel Radanne)
 	* RDV à 10h15 sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
 	* Typage de miniML et sûreté :  [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours04b_typingML_safety.pdf) 
-	* [Video 1](https://youtu.be/8LNEeffQks0), [Video 2](https://www.youtube.com/watch?v=jub4CzctrTs), [Video 3](https://youtu.be/4qHX_F5W6jo) [Script en anglais des vidéos (TBD)](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md).
+	* [Video 1](https://youtu.be/8LNEeffQks0), [Video 2](https://www.youtube.com/watch?v=jub4CzctrTs), [Video 3](https://youtu.be/4qHX_F5W6jo)
+	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md).
 	* [Exos](https://compil-lyon.gitlabpages.inria.fr/cap20/mltypes_ex.pdf)
-
