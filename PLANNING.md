@@ -87,3 +87,22 @@ _Année 2020-2021_
 	* [Video 1](https://youtu.be/8LNEeffQks0), [Video 2](https://www.youtube.com/watch?v=jub4CzctrTs), [Video 3](https://youtu.be/4qHX_F5W6jo)
 	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md).
 	* [Exos](https://compil-lyon.gitlabpages.inria.fr/cap20/mltypes_ex.pdf)
+
+
+# Semaine 4 (from Monday, Sept 28th)
+
+
+- :book: Sixème Séance de Cours: Lundi 28/9/2020, 13h30. (Laure Gonnord)
+	* RDV à 13h30 sur  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* 3-address code generation:  [transparents (fr)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours05_3ad_codegen.pdf) 
+	* [Video](https://youtu.be/m2x7leFnCN4)
+	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md) TBD
+	* [Exos](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex.pdf) TBD
+
+
+- :hammer: Troisième Séance de TP: Jeudi 01/10/2020, 10h15 (Paul Iannetta etGabriel Radanne) **Interpret with ANTLR**! 
+    * AMPHI B et BBB (ext, probablement).
+	* [pdf for lab3](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp3.pdf)
+	* All installs should be done before this session!
+	
+
