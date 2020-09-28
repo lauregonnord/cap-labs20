@@ -98,11 +98,12 @@ _Année 2020-2021_
 	* 3-address code generation:  [transparents (fr)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours05_3ad_codegen.pdf) 
 	* [Video](https://youtu.be/m2x7leFnCN4)
 	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_28_script.md).
-	* [Exos](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex.pdf).
+	* [Exos (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex.pdf) and a [corrected version (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex_corr.pdf)
 
 
 - :hammer: Troisième Séance de TP: Jeudi 01/10/2020, 10h15 (Paul Iannetta etGabriel Radanne) **Interpret with ANTLR**! 
     * AMPHI B et BBB (ext, probablement).
+	* A quick summary with [slides]() TBA.
 	* [pdf for lab3](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp3.pdf)
 	* All installs should be done before this session!
 	
