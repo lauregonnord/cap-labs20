@@ -94,10 +94,11 @@ _Année 2020-2021_
 
 - :book: Sixème Séance de Cours: Lundi 28/9/2020, 13h30. (Laure Gonnord)
 	* RDV à 13h30 sur  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Quick recall of where we are and Lab3's objective.
 	* 3-address code generation:  [transparents (fr)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours05_3ad_codegen.pdf) 
 	* [Video](https://youtu.be/m2x7leFnCN4)
-	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md) TBD
-	* [Exos](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex.pdf) TBD
+	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md).
+	* [Exos](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex.pdf).
 
 
 - :hammer: Troisième Séance de TP: Jeudi 01/10/2020, 10h15 (Paul Iannetta etGabriel Radanne) **Interpret with ANTLR**! 
