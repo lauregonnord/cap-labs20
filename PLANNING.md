@@ -97,7 +97,7 @@ _Année 2020-2021_
 	* Quick recall of where we are and Lab3's objective.
 	* 3-address code generation:  [transparents (fr)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours05_3ad_codegen.pdf) 
 	* [Video](https://youtu.be/m2x7leFnCN4)
-	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md).
+	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_28_script.md).
 	* [Exos](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex.pdf).
 
 
