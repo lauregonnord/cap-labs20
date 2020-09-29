@@ -79,7 +79,7 @@ _Année 2020-2021_
 	* [pdf for lab2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp2.pdf)
 	* All installs should be done before this session!
     * RDV sur [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490) (Yes, works again!)
-	* [slides: summary of the lab]()
+	* [slides: summary of the lab](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf)
 
 - :book: Cinquième Séance de Cours: Jeudi 24/9/2020, 10h15. (Gabriel Radanne)
 	* RDV à 10h15 sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
