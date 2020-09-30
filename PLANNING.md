@@ -102,7 +102,7 @@ _Academic "covid-19" first semester 2020-2021_
 
 
 - :hammer: Lab session #3: Thursday 01/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
-    * TOPIC **Interpret MinC with ANTLR**! 
+    * TOPIC **Interpret MiniC with ANTLR**! 
 	* All installs should be done before this session!
     * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
