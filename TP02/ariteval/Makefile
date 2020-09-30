@@ -16,13 +16,11 @@ main-deps: $(PACKAGE)Lexer.py $(PACKAGE)Parser.py
 run: $(MAINFILE).py main-deps
 	python3 $<
 
-TESTFILE=testfiles/foo01.txt
-$(PACKAGE).java: $(PACKAGE).g4
-	$(ANTLR4)  $<
-$(PACKAGE).class: $(PACKAGE).java
-	javac $(PACKAGE)*.java
-grun-gui: $(PACKAGE).class $(TESTFILE)
-	java org.antlr.v4.gui.TestRig $(PACKAGE) prog -gui $(TESTFILE)
+TESTFILE=testfiles/test01.txt
+
+
+print-tree: $(MAINFILE).py main-deps
+	python3 $< $(TESTFILE) --debug
 
 tests: test_ariteval.py main-deps
 	python3 -m pytest -v $< 
@@ -33,4 +31,4 @@ tar: clean
 	--exclude="htmlcov" "$$dir"
 
 clean:
-	rm -rf *~ $(PACKAGE)*.py $(PACKAGE)*.pyc *.tokens  __pycache* .cache *.interp *.java
+	rm -rf *~ $(PACKAGE)*.py $(PACKAGE)*.pyc *.tokens  __pycache* .cache *.interp *.java *.class

@@ -103,10 +103,11 @@ _Academic "covid-19" first semester 2020-2021_
 
 - :hammer: Lab session #3: Thursday 01/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
     * TOPIC **Interpret MinC with ANTLR**! 
+	* All installs should be done before this session!
     * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
 	* [pdf for lab3](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp3.pdf)
-	* All installs should be done before this session!
-	
+	* Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before Oct 7, 2020, 6pm Paris time. Email deposits are **strictly forbidden** (except for pople that do not have their ENS account yet).
+		
 
 # Week 5 TBA
