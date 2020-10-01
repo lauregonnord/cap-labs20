@@ -22,7 +22,8 @@ The directory contains [instructions](INSTALL.md) to install a compiler and a si
 
 ## Contact
 
-Laure Gonnord, Université Lyon 1, LIP [email](mailto:laure.gonnord@ens-lyon.fr)
+Laure Gonnord, Université Lyon 1, LIP [email](mailto:laure.gonnord@ens-lyon.fr)  
+Gabriel Radanne, Inria, LIP [email](mailto:gabriel.radanne@ens-lyon.fr)
 
 ## Contributors
 
