@@ -127,7 +127,7 @@ in (finalnote + ccgrade)/2
 	* DAG construction example: [Video (english)](https://www.youtube.com/watch?v=PXTKWvyQUwE) 
 	* Course on SSA : will be done later.
 	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_05_script.md).
-	* [Exercises (pdf)]()
+	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/IR_ex1.pdf) and  a [corrected version (pdf)](todo).
 
 
 - :hammer: Lab session #4: Thursday 08/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
