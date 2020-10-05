@@ -123,7 +123,7 @@ in (finalnote + ccgrade)/2
 	* Quick recall of where we are and Lab4's objective.
 	* Topic: **Intermediate Representations** (1)
 	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours06_irs.pdf)
-	* [Video 1(french)](https://www.youtube.com/dD9bRhLfykM) and [Video 2(french)- instruction scheduling](https://youtu.be/Xico_JTK3XQ)
+	* [Video 1(french)](https://youtu.be/dD9bRhLfykM) and [Video 2(french)- instruction scheduling](https://youtu.be/Xico_JTK3XQ)
 	* DAG construction example: [Video (english)](https://www.youtube.com/watch?v=PXTKWvyQUwE) 
 	* Course on SSA : will be done later.
 	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_05_script.md).
