@@ -8,7 +8,7 @@ _Academic "covid-19" first semester 2020-2021_
 let ccgrade = average(Lab3, Lab5, Lab_IA, Lab_futures, partial)
 in (finalnote + ccgrade)/2
 ```
-* TBA : partial: written exam  or written housework ("DM")
+* TBA : The partial exam is this academic year replaced by a  written housework ("DM").
 
 # Week 1: 
 
@@ -127,7 +127,7 @@ in (finalnote + ccgrade)/2
 	* DAG construction example: [Video (english)](https://www.youtube.com/watch?v=PXTKWvyQUwE) 
 	* Course on SSA : will be done later.
 	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_05_script.md).
-	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/IR_ex1.pdf) and  a [corrected version (pdf)](todo).
+	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/IR_ex1.pdf) and  a [corrected version (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/IR_ex1_corr.pdf).
 
 
 - :hammer: Lab session #4: Thursday 08/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
