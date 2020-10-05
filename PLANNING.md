@@ -3,6 +3,12 @@ _Academic "covid-19" first semester 2020-2021_
 
 * Laure Gonnord, Université Lyon 1, LIP http://laure.gonnord.org/pro/
 * Page on the "portail des études ENSL" : https://etudes.ens-lyon.fr/course/view.php?id=4259
+* MCC (final grade computation) : 
+```
+let ccgrade = average(Lab3, Lab5, Lab_IA, Lab_futures, partial)
+in (finalnote + ccgrade)/2
+```
+* TBA : partial: written exam  or written housework ("DM")
 
 # Week 1: 
 
@@ -110,4 +116,24 @@ _Academic "covid-19" first semester 2020-2021_
 	* Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before Oct 7, 2020, 6pm Paris time. Email deposits are **strictly forbidden** (except for pople that do not have their ENS account yet).
 		
 
-# Week 5 TBA
+# Week 5 (from Monday, Oct 5th)
+
+- :book: Course session #7: Monday 05/10/2020, 13:30. (Laure Gonnord)
+	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Quick recall of where we are and Lab4's objective.
+	* Topic: **Intermediate Representations** (1)
+	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours06_irs.pdf)
+	* [Video 1(french)](https://www.youtube.com/dD9bRhLfykM) and [Video 2(french)- instruction scheduling](https://youtu.be/Xico_JTK3XQ)
+	* DAG construction example: [Video (english)](https://www.youtube.com/watch?v=PXTKWvyQUwE) 
+	* Course on SSA : will be done later.
+	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_05_script.md).
+	* [Exercises (pdf)]()
+
+
+- :hammer: Lab session #4: Thursday 08/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
+    * TOPIC **Syntax directed code generation for MiniC**
+	* All installs should be done before this session!
+    * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
+	* [pdf for lab4](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp4.pdf)
+		
