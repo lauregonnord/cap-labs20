@@ -59,8 +59,8 @@ $(TRACE): $(OBJ)
 
 .PHONY: tests tests-interpret tests-codegen tests-regalloc
 
-tests: tests-interpret
 
+tests: tests-interpret tests-codegen tests-regalloc
 
 
 tests-interpret: test_interpreter.py main-deps
