@@ -171,7 +171,7 @@ class TestCodeGen(TestExpectPragmas):
         sys.stdout.write("Assembling and linking ... OK\n")
         try:
             result = self.run_command(
-                [SIMU, '/usr/riscv64-linux-gnu/bin/pk', exec_name],
+                [SIMU, 'pk', exec_name],
                 scope="runtime")
             output = re.sub(r'bbl loader\r?\n', '', result.output)
             return testinfo(execcode=result.execcode,
