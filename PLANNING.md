@@ -145,7 +145,7 @@ in (finalnote + ccgrade)/2
 - :book: Course session #7: Monday 12/10/2020, 13:30. (Laure Gonnord)
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **Register Allocation/Dataflow analyses**
-	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours07_irs.pdf)
+	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours07_regalloc.pdf)
 	* [Video 1(french) - register alloc (21min)](https://www.youtube.com/watch?v=9902mMgDIK8) and [Video 2(french)- dataflow (23min)](https://www.youtube.com/watch?v=LknSDccweFw)
 	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_12_script.md).
 	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/DF_regalloc_ex.pdf).
