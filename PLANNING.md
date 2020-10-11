@@ -137,3 +137,46 @@ in (finalnote + ccgrade)/2
 	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
 	* [pdf for lab4](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp4.pdf)
 		
+
+
+# Week 6 (from Monday, Oct 12th)
+
+
+- :book: Course session #7: Monday 12/10/2020, 13:30. (Laure Gonnord)
+	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Topic: **Register Allocation/Dataflow analyses**
+	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours07_irs.pdf)
+	* [Video 1(french) - register alloc (21min)](https://www.youtube.com/watch?v=9902mMgDIK8) and [Video 2(french)- dataflow (23min)](https://www.youtube.com/watch?v=LknSDccweFw)
+	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_12_script.md).
+	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/DF_regalloc_ex.pdf).
+
+- :hammer: Lab session #5: Thursday 15/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
+    * TOPIC **Smart code generation for MiniC (1/2)**
+	* All installs should be done before this session!
+    * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
+	* [pdf for lab5](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp5.pdf)
+		
+
+- :rocket: Additional ressources (in english)
+
+	* Fernando Pereira's videos (in English) for register allocation : [video1](https://youtu.be/pSunR-16EgA) (there are 4 of such nice videos, with an additional nice algorithm called linear scan).
+
+
+# Week 7 (from Monday, Oct 19th)
+
+
+- :book: Course session #8: Monday 19/10/2020, 13:30. (Yannick Zakowski)
+	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Topic: **SSA**
+
+- :hammer: Lab session #6: Thursday 22/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
+    * TOPIC **Smart code generation for MiniC (2/2)**
+    * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
+	* [pdf for lab5](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp5.pdf)
+		
+
+- :rocket: Additional ressources (in english)
+
+	* Fernando Pereira's videos (in English) for SSA: TBA
