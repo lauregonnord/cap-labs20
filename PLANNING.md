@@ -142,7 +142,7 @@ in (finalnote + ccgrade)/2
 # Week 6 (from Monday, Oct 12th)
 
 
-- :book: Course session #7: Monday 12/10/2020, 13:30. (Laure Gonnord)
+- :book: Course session #8: Monday 12/10/2020, 13:30. (Laure Gonnord)
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **Register Allocation/Dataflow analyses**
 	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours07_regalloc.pdf)
@@ -167,7 +167,7 @@ in (finalnote + ccgrade)/2
 # Week 7 (from Monday, Oct 19th)
 
 
-- :book: Course session #8: Monday 19/10/2020, 13:30. (Yannick Zakowski)
+- :book: Course session #9: Monday 19/10/2020, 13:30. (Yannick Zakowski)
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **SSA**
 
