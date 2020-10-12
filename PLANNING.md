@@ -146,9 +146,10 @@ in (finalnote + ccgrade)/2
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **Register Allocation/Dataflow analyses**
 	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours07_regalloc.pdf)
-	* [Video 1(french) - register alloc (21min)](https://www.youtube.com/watch?v=9902mMgDIK8) and [Video 2(french)- dataflow (23min)](https://www.youtube.com/watch?v=LknSDccweFw)
+	* [Video 1(french) - register alloc (21min)](https://www.youtube.com/watch?v=9902mMgDIK8) and [Video 2(french)- dataflow UNTIL 15'10](https://www.youtube.com/watch?v=LknSDccweFw)
 	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_12_script.md).
-	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/DF_regalloc_ex.pdf).
+	* [Exercises 2+7 here (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/DF_regalloc_ex.pdf) [and elements of solution](https://compil-lyon.gitlabpages.inria.fr/cap20/DF_regalloc_ex_corr.pdf)
+	* Homework : end of Video 2 and corresponding exercice (ex 3)
 
 - :hammer: Lab session #5: Thursday 15/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
     * TOPIC **Smart code generation for MiniC (1/2)**
