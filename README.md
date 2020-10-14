@@ -1,31 +1,33 @@
-# cap-labs 2020: Public files for ENSL M1 students (CAP course)
+# MIF08-labs
+Public files for LYON1-FST M1 students (MIF08 course)
 
-![ensllogo](logos/logo_ensl.png)
+![lyon1logo](logo_lyon1_tiny.png)
 
-[Planning, with links to slides, videos, lab subjects, ...](PLANNING.md)
+[La page de l'avancée du cours (fr), avec slides, sujets de TP & TD, ...](./PLANNING.md)
 
-## Get the repository
+# Get the repository
 
 ```
-git clone https://github.com/lauregonnord/cap-labs20.git
-cd cap-labs20
+git clone https://forge.univ-lyon1.fr/matthieu.moy/mif08-labs20.git
+cd mif08-labs20
 ```
 
-## Contents
+# Contents
 
-   * TPxx/     : student companion files for CAP labs 2020-21
 
-## About the target machine
+   * TPxx/     : student companion files for MIF labs 2020-21.
 
-The target machine is [RISCV](https://riscv.org/).
-The directory contains [instructions](INSTALL.md) to install a compiler and a simulator.
 
-## Contact
+# About the target machine
 
-Laure Gonnord, Université Lyon 1, LIP [email](mailto:laure.gonnord@ens-lyon.fr)  
-Gabriel Radanne, Inria, LIP [email](mailto:gabriel.radanne@ens-lyon.fr)
+The target machine is RISCV. The directory contains [instructions](https://github.com/lauregonnord/mif08-labs19/blob/master/INSTALL.md) to install a compiler and a simulator.
 
-## Contributors
+# Contact
 
-  * Labs (ENSL 2019 version): Laure Gonnord, Ludovic Henrio, Matthieu Moy, Marc de Vismes
-  * 2020 : Paul Iannetta.
+Matthieu Moy, Université Lyon 1, LIP, https://matthieu-moy.fr/
+
+# Contributors
+
+  * Labs (ENSL 2019 version): Laure Gonnord, Matthieu Moy, Ludovic
+    Henrio, Marc De Vismes.
+  

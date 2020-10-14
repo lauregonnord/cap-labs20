@@ -1,183 +1,188 @@
-# Planning of the compilation course (CAP, Compilation and Program Analysis)
-_Academic "covid-19" first semester 2020-2021_
+# Avancée / Planning du cours de MIF08 (Compilation)
+_Année 2020-2021_
 
-* Laure Gonnord, Université Lyon 1, LIP http://laure.gonnord.org/pro/
-* Page on the "portail des études ENSL" : https://etudes.ens-lyon.fr/course/view.php?id=4259
-* MCC (final grade computation) : 
-```
-let ccgrade = average(Lab3, Lab5, Lab_IA, Lab_futures, partial)
-in (finalnote + ccgrade)/2
-```
-* TBA : The partial exam is this academic year replaced by a  written housework ("DM").
+* Matthieu Moy, Université Lyon 1, LIP https://matthieu-moy.fr/
+* Version : 19/08/2020
 
-# Week 1: 
+## Organisation du cours en hybride
 
-- :book: First Course session: Monday 7/9/2020, 13:30. (Laure Gonnord)
+L'organisation de l'UE en « mode COVID » est la suivante :
 
-	* On BBB at 13:30. 
-	* [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_07_script.md) for non-french speakers (slides are in English, videos are not).
-	* Introduction: [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours01_intro_et_archi.pdf), [video 1 (intro-french)](https://www.youtube.com/watch?v=zGifE8MfPWA), [video 2 (RISCV-french)](https://youtu.be/ZdElX9e_tAI?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm). 
-	* Ex 4 + Ex 5 of Lab 1 during the session. [Optional exercise](https://compil-lyon.gitlabpages.inria.fr/cap20/riscv5_ex.pdf).
-	* ISA [ref pdf RISCV](https://compil-lyon.gitlabpages.inria.fr/cap20/RISCV-ISA-2020.pdf).
-	* Lexing, Parsing, [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours02_lexing_parsing.pdf), [vidéo 1 (french)](https://www.youtube.com/watch?v=UlUTSsOA9Qc), [vidéo 2(parsing, french)](https://www.youtube.com/watch?v=y9MrfDzrAmA).
-	* [Derivation tree exercise](https://compil-lyon.gitlabpages.inria.fr/cap20/derivtree_ex.pdf).
+* Pour chaque créneau, les instructions détaillées se trouvent ci-dessous.
 
+* Tous les CM sont à distance
 
-- :hammer: Première Séance de TP: Mardi 8/9/2020, 8h. (Paul Iannetta & Laure Gonnord) (Moitié présentiel en amphi B, distanciel sur BBB)
+* Les TD et TP sont faits en hybride, certains étudiants et enseignants à distance, d'autres en présentiel. Pour chaque créneau, vous trouverez une case sur TOMUSS indiquant la salle (si vous êtes en présentiel) ou « à distance » si vous êtes à distance. La répartition présentiel/distanciel est faite dans la mesure du possible en suivant les couleurs jAune/Bleu de TOMUSS. Pour les TP/TD à distance, rendez-vous sur le canal correspondant de chat-info (les enseignants utiliseront parfois d'autres outils, par exemple pour une explication ponctuelle en visio, mais posteront le lien vers les outils utilisés dans le canal de chat-info).
 
-	* Clone the   [git étudiant CAP](https://github.com/lauregonnord/cap-labs20).
-	* **do installs before**, especially if you want to use your personal laptops. On ENS machines, this install only takes the form of a quick edit of `.bashrc`, everything is on the student git [Howto](https://github.com/lauregonnord/cap-labs20/blob/master/INSTALL.md).
-	* Review RISCV slides.
-	* Amphi B and BBB
-	* [Lab1 (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp1.pdf)
+* Pour rejoindre les canaux de discussions sur chat-info, cliquez sur les liens suivants :
+    - [compil-general](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FsfzYSh) pour les discussions générales sur le cours et les CM
+    - [compil-groupe-1](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FEqiqPF) et [compil-groupe-2](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2F3Qzt5k) pour les groupes distanciels en TD
+    - [compil-groupe-a](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FtHfE7j), [compil-groupe-b](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FqHW2MX), [compil-groupe-c](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FsuFXKk), [compil-groupe-d](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FkAWmMd), [compil-groupe-e](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FcnEQ9c) pour les groupes distanciels de TP.
 
-	
-- :book: Deuxième Course session: Thursday 10/9/2020, 10:15. (Ludovic Henrio)
+* Les groupes B et E sont parfois affectés à des salles de TD pour les TP. Venez avec votre ordinateur personnel pour ces séances.
 
-	* At 10:15 sur	[BBBlink -externe](https://ent-services.ens-lyon.fr/entVisio/index.php) DI-M1-CAP, password = compilation
-	* [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours03b_semantics.pdf) et [Script en anglais des vidéos](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_10_script.md).
-	* Introduction:  [vidéo 1 (intro)](https://youtu.be/VGUgKBzjlIQ)
-	* Sémantique opérationnelle mini-while [vidéo 2 (miniwhile)](https://youtu.be/TE8O9T4zjyE), et la [preuve de la vidéo (min48)](https://compil-lyon.gitlabpages.inria.fr/cap20/miniwhile_opsem_proofs.pdf)
-	* Sémantique opérationnelle mini-ml: [vidéo 3 (miniML)](https://youtu.be/-5VAGgg2Jos)
+## Intervenants
 
-- :rocket: Additional ressources (mainly in english)
+* Groupe A : Laure Gonnord / Joris Picot (en TD et TP)
+* Groupe B : Guillaume Bouchard (+ Nicolas Louvet en TP)
+* Groupe C : Élise Jeanneau (+ Thierry Excoffier en TP)
+* Groupe D : Grégoire Pichon (+ Lionel Morel en TP)
+* Groupe E : Matthieu Moy (+ Guillaume Salagnac en TP)
 
-	*  A nice YT video on [structural induction](https://www.youtube.com/watch?v=2o3EzvfgTiQ) by F. Pereira, one of our brasilian collaborators.
-	* Fernando Pereira's other videos on operational semantics : [video1](https://www.youtube.com/watch?v=bOzbRhXvtlY), [video2](https://www.youtube.com/watch?v=aiBKOuM5iEA)
+## Vidéos des CM
 
+Toutes les vidéos sont disponibles dès maintenant :
 
+[La playlist Youtube MIF08](https://www.youtube.com/playlist?list=PLtjm-n_Ts-J9HSZ9ahpbsC_kTQMzUZQPx)
 
-# Week 2: 
+Vous pouvez les regarder en avance si vous le souhaitez, et devez les regarder au plus tard pendant le créneau prévu dans votre emploi du temps.
 
-- :book: Course session #3: Monday 14/09/2020, 13:30 (Laure Gonnord)
+Vous pouvez utiliser le canal [compil-general](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FsfzYSh) pour poser des questions au fur et à mesure que vous regardez les vidéos. Une visio en direct aura lieu en fin de chaque créneau de CM sur [BBB (Compilation mif08)](https://classe-info.univ-lyon1.fr/moy-n6a-uip-gtj).
 
-  * On BBB.
-  * First replay the following video (summary of Lexing and Parsing phase): [from15:38 (french)](https://youtu.be/y9MrfDzrAmA?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm&t=936)
-  * Semantics, interpreters [slides in english](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours03_interpreters.pdf) and [video (fr)](https://www.youtube.com/watch?v=8PYhBsgRO6g)
-  * [Demo files](https://compil-lyon.gitlabpages.inria.fr/cap20/ANTLRExamples.tar.xz)
-  * [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_14_script.md) for non-french speakers (slides are in English, videos are not).
-  * An attribution [exercice](https://compil-lyon.gitlabpages.inria.fr/cap20/grammar_attributes_ex.pdf), [english correction](https://compil-lyon.gitlabpages.inria.fr/cap20/grammar_attributes_ex_corr.pdf)
-  
-- :hammer: No Lab this week, however we will make some install during the 3rd course slot
-  * TODO (technically not _required_ for this week): log [on tomuss-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021/) with your ENS account.
-  * Make the first steps of [lab2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp2.pdf) to install and play with ANTLR.
+## Mercredi 7/10/2020
 
+- :book: 14h: Cours 1: Introduction, machine cible (RISCV), lexing :
+    - [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours01_intro_et_archi.pdf)
+    - [Vidéo "teaser"](https://youtu.be/ny7HlqyuM9E)
+    - [vidéo d'introduction au cours](https://www.youtube.com/watch?v=zGifE8MfPWA)
+    - [vidéo sur RISCV](https://youtu.be/ZdElX9e_tAI)
+    - [vidéo lexing](https://www.youtube.com/watch?v=UlUTSsOA9Qc)
+    - [Extrait de la documentation RISCV](https://compil-lyon.gitlabpages.inria.fr/mif08-20/RISCV-ISA-2020.pdf)
+    - chat sur [compil-general](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FsfzYSh).
+    - Visio en direct à 15h sur [BBB (Compilation mif08)](https://classe-info.univ-lyon1.fr/moy-n6a-uip-gtj).
 
-- :book: Course session #4: Thursday 17/9/2020, 10:15. (Ludovic Henrio)
-  
-  * On BBB
-  * End of miniML op semantics [vidéo (miniML - french)](https://youtu.be/-5VAGgg2Jos) (the script is [here](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_10_script.md).)
-  * Intro, typing mini-while [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours04_typing.pdf) et [vidéo](https://youtu.be/2A-hQy_6YlE).
-  * Safety of miniwhile typing on  [the second part of these slides](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours04b_typingML_safety.pdf). The [video (fr)](https://youtu.be/qNhBEsKLNco). The proof on [paper(scanned pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/Handproofssafety.pdf)
-  * [English script for these two videos](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_17_script.md)
+- :book: 15h45: Cours 2:
+Lexing, Parsing.
+    - [transparents parsing](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours02_lexing_parsing.pdf)
+    - [vidéo parsing](https://www.youtube.com/watch?v=y9MrfDzrAmA)
+    - [transparents sémantique et interprète](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours03_interpreters.pdf)
+    - [vidéo sémantique et interprète](https://youtu.be/8PYhBsgRO6g)
+    - chat sur [compil-general](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FsfzYSh).
+    - Visio en direct à 16h45 sur [BBB (Compilation mif08)](https://classe-info.univ-lyon1.fr/moy-n6a-uip-gtj).
 
+- :100: QCM noté sur TOMUSS, à faire avant 23:59 le jour même (7/10)
 
-- :rocket: Additional ressources (mainly in english)
+## Mercredi 14/10/2020
 
-	* Fernando Pereira's videos (in English) for type systems: : [video1](https://www.youtube.com/watch?v=AtFH_6yzC1Y) (there are 4 of such nice videos).
+- :pencil2: 16h30: TD1 : Architecture RISCV, Lexing
 
-	
-# Week 3 (from Monday, Sept 21th)
+    Votre salle est affichée sur TOMUSS, les bleus et quelques jaunes sont à distance.
+    - En présentiel :
+        - Nautibus TD1 (20 places) : Matthieu Moy.
+        - Nautibus TD5 (24 places) : Guillaume Bouchard
+        - Nautibus TD10 (24 places) : Élise Jeanneau
+    - À distance :
+        - groupe 1 : [compil-groupe-1](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FEqiqPF) sur chat-info, Grégoire Pichon.
+        - groupe 2 : [compil-groupe-2](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2F3Qzt5k) sur chat-info, ~~Laure Gonnord~~ Joris Picot
+    - [Énoncé du TD1](https://compil-lyon.gitlabpages.inria.fr/mif08-20/td1.pdf)
+    - Rappel : [Extrait de la documentation RISCV](https://compil-lyon.gitlabpages.inria.fr/mif08-20/RISCV-ISA-2020.pdf)
+    - Lexing et parsing avec ANTLR en 2 slides : [slides-td1.pdf](https://compil-lyon.gitlabpages.inria.fr/mif08-20/td1-slides.pdf)
 
+## Jeudi 15/10/2020
 
-- :hammer: Lab Session #2: Monday 21/9/2020, 13:30 (Paul Iannetta and Laure Gonnord)
-    * AMPHI and  BBB.
-	* [pdf for lab2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp2.pdf)
-	* All installs should be done before this session!
-    * RDV sur [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490) (Yes, works again!)
-	* [slides: summary of the lab](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf)
+- :hammer: TP1,
+    <!-- - Nautibus TP1 (10 places) :  -->
+    Votre salle est affichée sur TOMUSS. Les bleus sont à distance, les jaunes en présentiel. Pour les quelques jaunes qui sont en distanciel sur le créneau suivant, vous pouvez aussi faire le TP en distanciel bien sûr.
+    - En présentiel :
+        - Nautibus TP9  (9 places)  : A1,Laure Gonnord
+        - Nautibus TP10 (10 places) : A2, Laure Gonnord
+        - Nautibus TP11 (9 places)  : C1, Guillaume Bouchard
+        - Nautibus TP12 (9 places)  : C2, Guillaume Bouchard
+        - Nautibus TP13 (10 places) : D1, Élise Jeanneau
+        - Nautibus TP14 (10 places) : D2, Élise Jeanneau
+        - Nautibus TD10 (24 places) : Groupe E, Grégoire Pichon
+        - Nautibus TD12 (23 places) : Groupe B (repli possible en TP1 si des étudiants n'ont pas de machine), Matthieu Moy
+    - À distance : 
+        - Groupe A : [compil-groupe-a](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FtHfE7j) ~~Laure Gonnord~~ Joris Picot
+        - Groupe B : [compil-groupe-b](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FqHW2MX) Nicolas Louvet
+        - Groupe C : [compil-groupe-c](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FsuFXKk) Thierry Excoffier
+        - Groupe D : [compil-groupe-d](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FkAWmMd) Lionel Morel
+        - Groude E : [compil-groupe-e](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FcnEQ9c) Guillaume Salagnac
+    - Énoncé : [TP1 python/archi](https://compil-lyon.gitlabpages.inria.fr/mif08-20/tp1.pdf)
+    - Fichiers du TP1 : [TP01/](TP01/).
 
-- :book: Course session #5: Thursday 24/9/2020, 10:15. (Gabriel Radanne)
-	* At 10:15 on BBB
-	* Typing ML, and safety:  [transparents](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours04b_typingML_safety.pdf) 
-	* [Video 1 (french)](https://youtu.be/8LNEeffQks0), [Video 2 (french)](https://www.youtube.com/watch?v=jub4CzctrTs), [Video 3 (french)](https://youtu.be/4qHX_F5W6jo)
-	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_24_script.md).
-	* [Exercises](https://compil-lyon.gitlabpages.inria.fr/cap20/mltypes_ex.pdf)
+- :pencil2: TD, Arbres abstraits, attributions, types
 
-
-# Week 4 (from Monday, Sept 28th)
-
-
-- :book: Course session #6: Monday 28/9/2020, 13:30. (Laure Gonnord)
-	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* Quick recall of where we are and Lab3's objective.
-	* 3-address code generation:  [transparents (fr)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours05_3ad_codegen.pdf) 
-	* [Video (french)](https://youtu.be/m2x7leFnCN4)
-	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_09_28_script.md).
-	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex.pdf) and a [corrected version (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/3ad_ex_corr.pdf)
-
-
-- :hammer: Lab session #3: Thursday 01/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
-    * TOPIC **Interpret MiniC with ANTLR**! 
-	* All installs should be done before this session!
-    * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
-	* [pdf for lab3](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp3.pdf)
-	* Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before Oct 7, 2020, 6pm Paris time. Email deposits are **strictly forbidden** (except for pople that do not have their ENS account yet).
-		
-
-# Week 5 (from Monday, Oct 5th)
-
-- :book: Course session #7: Monday 05/10/2020, 13:30. (Laure Gonnord)
-	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* Quick recall of where we are and Lab4's objective.
-	* Topic: **Intermediate Representations** (1)
-	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours06_irs.pdf)
-	* [Video 1(french)](https://youtu.be/dD9bRhLfykM) and [Video 2(french)- instruction scheduling](https://youtu.be/Xico_JTK3XQ)
-	* DAG construction example: [Video (english)](https://www.youtube.com/watch?v=PXTKWvyQUwE) 
-	* Course on SSA : will be done later.
-	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_05_script.md).
-	* [Exercises (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/IR_ex1.pdf) and  a [corrected version (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/IR_ex1_corr.pdf).
+    Votre salle est affichée sur TOMUSS. Les bleus sont à distance et quelques jaunes sont à distance, les autres en présentiel.
+    - En présentiel :
+        - Nautibus TD10 (24 places) : Matthieu Moy
+        - Nautibus TD11 (20 places) : Guillaume Bouchard
+        - Nautibus TD1 (20 places) : Élise Jeanneau
+    - À distance :
+        - groupe 1 : [compil-groupe-1](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2FEqiqPF) sur chat-info, Grégoire Pichon.
+        - groupe 2 : [compil-groupe-2](https://go.rocket.chat/invite?host=chat-info.univ-lyon1.fr&path=invite%2F3Qzt5k) sur chat-info, ~~Laure Gonnord~~ Joris Picot
+    - [Énoncé du TD2](https://compil-lyon.gitlabpages.inria.fr/mif08-20/td2.pdf)
 
 
-- :hammer: Lab session #4: Thursday 08/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
-    * TOPIC **Syntax directed code generation for MiniC**
-	* All installs should be done before this session!
-    * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
-	* [pdf for lab4](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp4.pdf)
-		
+# TOUT CE QUI SUIT CETTE LIGNE EST UN BROUILLON QUI SERA MIS À JOUR ... BIENTÔT :-)
 
 
-# Week 6 (from Monday, Oct 12th)
+## Mercredi 04/11/2020
 
+- :hammer: TP, [TP2 antlr](https://compil-lyon.gitlabpages.inria.fr/compil-lyon/MIF081920_Lyon1/mif08_tp2.pdf)
 
-- :book: Course session #8: Monday 12/10/2020, 13:30. (Laure Gonnord)
-	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* Topic: **Register Allocation/Dataflow analyses**
-	* [Slides (english)](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_cours07_regalloc.pdf)
-	* [Video 1(french) - register alloc (21min)](https://www.youtube.com/watch?v=9902mMgDIK8) and [Video 2(french)- dataflow UNTIL 15'10](https://www.youtube.com/watch?v=LknSDccweFw)
-	* [English script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_10_12_script.md).
-	* [Exercises 2+7 here (pdf)](https://compil-lyon.gitlabpages.inria.fr/cap20/DF_regalloc_ex.pdf) [and elements of solution](https://compil-lyon.gitlabpages.inria.fr/cap20/DF_regalloc_ex_corr.pdf)
-	* Homework : end of Video 2 and corresponding exercice (ex 3)
+## Vendredi 13/11/2020
 
-- :hammer: Lab session #5: Thursday 15/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
-    * TOPIC **Smart code generation for MiniC (1/2)**
-	* All installs should be done before this session!
-    * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
-	* [pdf for lab5](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp5.pdf)
-		
+- :book: Cours 3, Interprètes, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours03_interpreters.pdf), [vidéo](https://youtu.be/8PYhBsgRO6g) et typage [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours04_typing.pdf), [vidéo](https://youtu.be/2A-hQy_6YlE)
+<!-- - :mag_right: Contrôle continu (papier), TODO, archi (aucun doc
+    autorisé: ISA de la machine) -->
 
-- :rocket: Additional ressources (in english)
+- :hammer: TP, [TP3 frontend, évaluateur](https://compil-lyon.gitlabpages.inria.fr/compil-lyon/MIF081920_Lyon1/mif08_tp3.pdf)
 
-	* Fernando Pereira's videos (in English) for register allocation : [video1](https://youtu.be/pSunR-16EgA) (there are 4 of such nice videos, with an additional nice algorithm called linear scan).
+## Mercredi 2/12/2020
 
+- :book: Cours 4, génération de code 3 adresses + allocation naive, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours05_3ad_codegen.pdf), [vidéo](https://youtu.be/m2x7leFnCN4)
 
-# Week 7 (from Monday, Oct 19th)
+- :pencil2: TD, [TD3 génération de
+    code](https://compil-lyon.gitlabpages.inria.fr/compil-lyon/MIF081920_Lyon1/cahier_exos_MIF08.pdf)
+    (LG, GB,  MM, NL)
 
+## Mercredi 9/12/2020
 
-- :book: Course session #9: Monday 19/10/2020, 13:30. (Yannick Zakowski)
-	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* Topic: **SSA**
+- :hammer: TP, [TP4 démo, début codegen](https://compil-lyon.gitlabpages.inria.fr/compil-lyon/MIF081920_Lyon1/mif08_tp4.pdf)
 
-- :hammer: Lab session #6: Thursday 22/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
-    * TOPIC **Smart code generation for MiniC (2/2)**
-    * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
-	* [pdf for lab5](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp5.pdf)
-		
+- 	- :hammer: TP, [TP5 code gen](https://compil-lyon.gitlabpages.inria.fr/compil-lyon/MIF081920_Lyon1/mif08_tp5.pdf)
 
-- :rocket: Additional ressources (in english)
+## Jeudi 10/12/2020
 
-	* Fernando Pereira's videos (in English) for SSA: TBA
+- :book: Cours 5,
+    Représentations intermédiaires, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours06_irs.pdf) et allocation de registres, [transparents](https://compil-lyon.gitlabpages.inria.fr/mif08-20/capmif_cours07_regalloc.pdf)
+
+## Mercredi 6/01/2021
+<!-- 
+- :mag_right: Contrôle continu (tp) (20 min de composition) une grammaire
+    ANTLR -->
+
+- :pencil2: TD, 8-9h30  ou 10-11h30 : [TD4
+    liveness](https://compil-lyon.gitlabpages.inria.fr/compil-lyon/MIF081920_Lyon1/cahier_exos_MIF08.pdf)
+
+## Mercredi 13/01/2021
+
+- :pencil2: TD groupe A 8-9h30, autres 10h00 -> 11h30: [TD5
+    regalloc](https://compil-lyon.gitlabpages.inria.fr/compil-lyon/MIF081920_Lyon1/cahier_exos_MIF08.pdf)
+
+- :hammer: TP5 code gen, suite.
+
+### Rendus Tomuss et feedback
+
+- CC de cours : la note arrivera fin de la semaine.
+
+- CC de tp noté : rendu mercredi 15/01 à 14h30. La correction
+arrivera avant la fin de la semaine.
+
+- Rendu de l'évaluateur juste après la démo le vendredi 17/01. Une
+note "automatique" vous sera rendue durant le week-end.
+
+- Tps de génération de code directe: rendu le mardi 21/01 à 18h - une
+correction partielle sera fournie à la même heure. 
+
+- Dernier TP : rendu le dimanche 26 à 23h59.
+
+- Les deux dernières notes de TP vous seront fournies après l'examen.
+
+## Pondération des notes (indicative pour l'instant)
+  - CC1 (archi) 5%
+  - CC2 (grammaire) 5%
+  - TP évaluateur 15%
+  - TPs génération de code 15%+20%
+  - Examen final 40 %
