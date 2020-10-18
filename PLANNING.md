@@ -169,15 +169,25 @@ in (finalnote + ccgrade)/2
 
 - :book: Course session #9: Monday 19/10/2020, 13:30. (Yannick Zakowski)
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* Topic: **SSA**
+	* Topic: **SSA: Static Single Assignment**
+	* [slides (en)](TBD)
+    * [video 1 Intro (en)](https://www.youtube.com/watch?v=x61pjK3kGbg) and [video 2 (en)](https://youtu.be/ufmCopez1ys?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm)
+	* Exercices : TBA.
 
 - :hammer: Lab session #6: Thursday 22/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
     * TOPIC **Smart code generation for MiniC (2/2)**
     * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
 	* [pdf for lab5](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp5.pdf)
+	* Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before Oct xxx, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
 		
 
-- :rocket: Additional ressources (in english)
+- :rocket: Additional ressources (in English)
 
-	* Fernando Pereira's videos (in English) for SSA: TBA
+	* Fernando Pereira's videos (in English): [SSA-based register allocation](https://www.youtube.com/watch?v=Q2tQcBxjRp8), see his YT chain for additional videos.
+
+
+# Week 8 No course
+
+- :pencil: DM on paper TBA : [pdf](). Due on [TOMUSS-fr]((https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021)), deadline TBA
+
