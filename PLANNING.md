@@ -179,7 +179,7 @@ in (finalnote + ccgrade)/2
     * AMPHI B and [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* A quick summary **READ BEFORE** with [slides](https://compil-lyon.gitlabpages.inria.fr/cap20/capmif_labs.pdf).
 	* [pdf for lab5](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp5.pdf)
-	* Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before Oct xxx, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
+	* Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before November 1st, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
 		
 
 - :rocket: Additional ressources (in English)
