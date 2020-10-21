@@ -172,7 +172,7 @@ in (finalnote + ccgrade)/2
 	* Topic: **SSA: Static Single Assignment**
 	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_cours.pdf)
     * [video 1 Intro (en)](https://www.youtube.com/watch?v=x61pjK3kGbg) and [video 2 Construction/Deconstruction (en)](https://youtu.be/ufmCopez1ys?list=PLtjm-n_Ts-J-6EU1WfVIWLhl1BUUR-Sqm) and [video 3 SSA is functional (en)](https://youtu.be/aFevTC8HzgE)
-	* [exercises (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_exos.pdf)
+	* [exercises (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_exos.pdf) [and elements of solution](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_exos_avec_corriges.pdf)
 
 - :hammer: Lab session #6: Thursday 22/10/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
     * TOPIC **Smart code generation for MiniC (2/2)**
