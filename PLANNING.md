@@ -189,5 +189,5 @@ in (finalnote + ccgrade)/2
 
 # Week 8 No course
 
-- :pencil: DM on paper TBA : [pdf](). Due on [TOMUSS-fr]((https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021)), deadline TBA
+- :pencil: DM on paper: [DM_2020](https://compil-lyon.gitlabpages.inria.fr/cap20/dm_cap_2020.pdf). Due on [TOMUSS-fr]((https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021)), deadline the 1/11/20
 
