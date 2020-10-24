@@ -189,5 +189,5 @@ in (finalnote + ccgrade)/2
 
 # Week 8 No course
 
-- :pencil: DM on paper: [DM_2020](https://compil-lyon.gitlabpages.inria.fr/cap20/dm_cap_2020.pdf). Due on [TOMUSS-fr]((https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021)), deadline November 7th, 2020, 6pm Paris time. **1 PDF file only** ; email deposits are **strictly forbidden**
+- :pencil: DM on paper: [DM_2020](https://compil-lyon.gitlabpages.inria.fr/cap20/dm_cap_2020.pdf). Due on [TOMUSS-fr]((https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021)), deadline November 7th, 2020, 6pm Paris time. **1 PDF file only** ; email deposits are **strictly forbidden** Ask questions by email with [CAP:DM] header to Laure.Gonnord and Lucdovic.Henrio (at ens-lyon.fr).
 
