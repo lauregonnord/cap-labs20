@@ -199,8 +199,8 @@ in (finalnote + ccgrade)/2
 - :book: Course session #10: Monday 02/11/2020, 13:30. (Laure Gonnord)
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **Code generation for functions**
-	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_cours.pdf)
-    * [video Full, fr](https://www.youtube.com/watch?v=N2rQhJJcQl) . Timestamps in the video description to cut it into pieces. 
+	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours09b_func_codegen.pdf)
+    * [video Full, fr](https://youtu.be/N2rQhJJcQls) . Timestamps in the video description to cut it into pieces. 
 	* [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_11_02_script.md)
 	* Exercices : TBD
 
@@ -208,8 +208,7 @@ in (finalnote + ccgrade)/2
 - :book: Course session #11: Thursday 05/11/2020, 10h15. (Ludovic Henrio)
 	* At 10h15 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **Semantics for functions**
-	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_cours.pdf)
-    * [video (en))] TBD
+   * TBD
 
 	
 - :hammer: No Lab this week.
