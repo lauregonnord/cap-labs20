@@ -171,7 +171,11 @@ class TestCodeGen(TestExpectPragmas):
         sys.stdout.write("Assembling and linking ... OK\n")
         try:
             result = self.run_command(
-                [SIMU, 'pk', exec_name],
+                [SIMU,
+                 '-m100',  # Limit memory usage to 100MB, more than enough and
+                           # avoids crashing on a VM with <= 2GB RAM for example.
+                 'pk',
+                 exec_name],
                 scope="runtime")
             output = re.sub(r'bbl loader\r?\n', '', result.output)
             return testinfo(execcode=result.execcode,
