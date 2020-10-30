@@ -3,6 +3,7 @@ _Academic "covid-19" first semester 2020-2021_
 
 * Laure Gonnord, Université Lyon 1, LIP http://laure.gonnord.org/pro/
 * Page on the "portail des études ENSL" : https://etudes.ens-lyon.fr/course/view.php?id=4259
+* Discord Channel: https://discord.com/channels/691214205692542976/771392543853117460
 * MCC (final grade computation) : 
 ```
 let ccgrade = average(Lab3, Lab5, Lab_IA, Lab_futures, partial)
