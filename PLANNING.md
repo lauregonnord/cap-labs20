@@ -192,3 +192,24 @@ in (finalnote + ccgrade)/2
 
 - :pencil: DM on paper: [DM_2020](https://compil-lyon.gitlabpages.inria.fr/cap20/dm_cap_2020.pdf). Due on [TOMUSS-fr]((https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021)), deadline November 7th, 2020, 6pm Paris time. **1 PDF file only** ; email deposits are **strictly forbidden** Ask questions by email with [CAP:DM] header to Laure.Gonnord and Lucdovic.Henrio (at ens-lyon.fr).
 
+
+# Week 9 (from Monday, nov 2nd)
+
+
+- :book: Course session #10: Monday 02/11/2020, 13:30. (Laure Gonnord)
+	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Topic: **Code generation for functions**
+	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_cours.pdf)
+    * [video Full, fr](https://www.youtube.com/watch?v=N2rQhJJcQl) . Timestamps in the video description to cut it into pieces. 
+	* [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_11_02_script.md)
+	* Exercices : TBD
+
+
+- :book: Course session #11: Thursday 05/11/2020, 10h15. (Ludovic Henrio)
+	* At 10h15 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Topic: **Semantics for functions**
+	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ssa_cours.pdf)
+    * [video (en))] TBD
+
+	
+- :hammer: No Lab this week.
