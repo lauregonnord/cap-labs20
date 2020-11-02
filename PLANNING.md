@@ -202,7 +202,7 @@ in (finalnote + ccgrade)/2
 	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours09b_func_codegen.pdf)
     * [video Full, fr](https://youtu.be/N2rQhJJcQls) . Timestamps in the video description to cut it into pieces. 
 	* [Script](https://compil-lyon.gitlabpages.inria.fr/cap20/2020_11_02_script.md)
-	* Exercices : TBD
+	* [Exercices (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/functions_ex.pdf)
 
 
 - :book: Course session #11: Thursday 05/11/2020, 10h15. (Ludovic Henrio)
