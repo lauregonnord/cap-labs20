@@ -209,7 +209,21 @@ in (finalnote + ccgrade)/2
 - :book: Course session #11: Thursday 05/11/2020, 10h15. (Ludovic Henrio)
 	* At 10h15 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **Semantics for functions**
-   * TBD
-
+	* [slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours09a_funsem.pdf)
+    * [correction of slides ex](https://compil-lyon.gitlabpages.inria.fr/cap20/FunctionSemantics-exercises.pdf),
+	* [video1 (en)](https://youtu.be/8jXHKfq0tnY), [video2 (en)](https://youtu.be/tFy7zv12XLM)
+	
 	
 - :hammer: No Lab this week.
+
+
+# Week 10 (from Monday, nov 9th)
+
+- :book: Course session #10: Monday 02/11/2020, 13:30. (Ludovic Henrio + Laure Gonnord)
+	* TBA (perhaps we will use the external BBB)
+	* Topic 1 **Typing functions** (LH) with [video3 (en typing functions)](https://youtu.be/JEMhHZ4bmWQ)
+	* Topic 2 **Abstract Interpretation** (LG)
+    * TBA
+   
+
+- :hammer: Functions: TBA
