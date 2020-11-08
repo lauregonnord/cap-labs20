@@ -219,11 +219,17 @@ in (finalnote + ccgrade)/2
 
 # Week 10 (from Monday, nov 9th)
 
-- :book: Course session #10: Monday 02/11/2020, 13:30. (Ludovic Henrio + Laure Gonnord)
-	* TBA (perhaps we will use the external BBB)
-	* Topic 1 **Typing functions** (LH) with [video3 (en typing functions)](https://youtu.be/JEMhHZ4bmWQ)
-	* Topic 2 **Abstract Interpretation** (LG)
-    * TBA
+- :book: Course session #10: Monday 09/11/2020, 13:30. (Ludovic Henrio + Laure Gonnord)
+	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Topic 1 **Typing functions** (LH) with [video3 (en, typing functions)](https://youtu.be/JEMhHZ4bmWQ)
+	* Topic 2 **Abstract Interpretation** (LG) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours08a_iabasics.pdf)
+	* Videos for IA: [video 1 en, intro](https://youtu.be/FTcIE7uzehE) (7'36) [video 2, en, long abstract](https://youtu.be/npIO9tmjp7g) (30 min) [video 3, en, abstract domains](youtu.be/BoTF_th3-fw) 20 min  and [video4, en, proof, implem](https://youtu.be/8OM0PBG5N1s)  (10 min).
+	* [Exercices (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ia_ex.pdf).
+
+
    
 
-- :hammer: Functions: TBA
+- :hammer: Lab #7 Thursday 12/11/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
+    * TOPIC **Typing and code generation for functions**
+    * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* [pdf for lab 7](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf)
