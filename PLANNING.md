@@ -229,7 +229,7 @@ in (finalnote + ccgrade)/2
 
    
 
-- :hammer: Lab #7 Thursday 12/11/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
+- :hammer: Lab #6 Thursday 12/11/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
     * TOPIC **Typing and code generation for functions**
     * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* [pdf for lab 7](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf)
+	* [pdf for lab 6](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp6.pdf)
