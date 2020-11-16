@@ -225,11 +225,27 @@ in (finalnote + ccgrade)/2
 	* Topic 2 **Abstract Interpretation** (LG) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours08a_iabasics.pdf)
 	* Videos for IA: [video 1 en, intro](https://youtu.be/FTcIE7uzehE) (7'36) [video 2, en, long abstract](https://youtu.be/npIO9tmjp7g) (30 min) [video 3, en, abstract domains](https://youtu.be/BoTF_th3-fw) 20 min  and [video4, en, proof, implem](https://youtu.be/8OM0PBG5N1s)  (10 min).
 	* [Exercices (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ia_ex.pdf).
-
-
    
 
 - :hammer: Lab #6 Thursday 12/11/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
-    * TOPIC **Typing and code generation for functions**
+    * TOPIC **Typing and code generation for functions 1/2**
     * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* [pdf for lab 6](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp6.pdf)
+	* [pdf for lab 7](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf)
+
+
+# Week 11 (from Monday, nov 16th)
+
+- :book: Course session #11: Monday 16/11/2020, 13:30. (Laure Gonnord)
+	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* Topic 2 **Abstract Interpretation 2/2** (LG) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours08a_iabasics.pdf) and [slides2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours08b_infinitelattice.pdf).
+	*  Videos [video4, en, proof, implem](https://youtu.be/8OM0PBG5N1s)  (10 min), [video 5 (infinite lattices)](https://youtu.be/hY05VqrAAes), [video 6 (strategies and tools)](https://youtu.be/otNsyWGaXrM)
+	* [Exercices (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/ia_ex.pdf).
+   
+- :hammer: Lab session #7 Thursday 19/11/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
+    * TOPIC **Typing and code generation for functions 2/2**
+    * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+	* [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf)
+
+
+# Week 12 TBA
+
