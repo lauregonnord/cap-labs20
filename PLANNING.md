@@ -205,7 +205,6 @@ in (finalnote + ccgrade)/2
 	* [Exercices (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/functions_ex.pdf), [correction (fr/en)](https://compil-lyon.gitlabpages.inria.fr/cap20/functions_ex_corr.pdf)
 
 
-
 - :book: Course session #11: Thursday 05/11/2020, 10h15. (Ludovic Henrio)
 	* At 10h15 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic: **Semantics for functions**
@@ -245,7 +244,13 @@ in (finalnote + ccgrade)/2
     * TOPIC **Typing and code generation for functions 2/2**
     * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf)
+	* No deadline
 
+# Week 12 (from Monday, November 23rd)
 
-# Week 12 TBA
+- :book: No course session: finish AI videos and do some exercises!
 
+- :hammer: Lab session #7 Thursday 26/11/2020, 10:15 (Paul Iannetta and Yannick Zakowski) 
+    * TOPIC **Abstract Interpretation 1/2**
+    * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+    * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp8.pdf) (TBD)
