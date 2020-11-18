@@ -243,7 +243,7 @@ in (finalnote + ccgrade)/2
 - :hammer: Lab session #7 Thursday 19/11/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
     * TOPIC **Typing and code generation for functions 2/2**
     * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-	* [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf)
+	* [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp6.pdf)
 	* No deadline
 
 # Week 12 (from Monday, November 23rd)
@@ -253,4 +253,4 @@ in (finalnote + ccgrade)/2
 - :hammer: Lab session #7 Thursday 26/11/2020, 10:15 (Paul Iannetta and Yannick Zakowski) 
     * TOPIC **Abstract Interpretation 1/2**
     * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
-    * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp8.pdf) (TBD)
+    * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf) (TBD)
