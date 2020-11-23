@@ -248,7 +248,8 @@ in (finalnote + ccgrade)/2
 
 # Week 12 (from Monday, November 23rd)
 
-- :book: No course session: finish AI videos and do some exercises!
+- :book: Helping session: Monday 23/11/2020, 13:30. (Gabriel Radanne)
+	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 
 - :hammer: Lab session #7 Thursday 26/11/2020, 10:15 (Paul Iannetta and Yannick Zakowski) 
     * TOPIC **Abstract Interpretation 1/2**
