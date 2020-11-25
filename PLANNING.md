@@ -255,3 +255,4 @@ in (finalnote + ccgrade)/2
     * TOPIC **Abstract Interpretation 1/2**
     * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
     * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf) (TBD)
+    * Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before December 10th, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
