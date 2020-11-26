@@ -253,6 +253,6 @@ in (finalnote + ccgrade)/2
 
 - :hammer: Lab session #7 Thursday 26/11/2020, 10:15 (Paul Iannetta and Yannick Zakowski) 
     * TOPIC **Abstract Interpretation 1/2**
-    * [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
+    * [BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
     * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf) 
     * Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before December 10th, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
