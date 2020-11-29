@@ -218,7 +218,7 @@ in (finalnote + ccgrade)/2
 
 # Week 10 (from Monday, nov 9th)
 
-- :book: Course session #10: Monday 09/11/2020, 13:30. (Ludovic Henrio + Laure Gonnord)
+- :book: Course session #11: Monday 09/11/2020, 13:30. (Ludovic Henrio + Laure Gonnord)
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic 1 **Typing functions** (LH) with [video3 (en, typing functions)](https://youtu.be/JEMhHZ4bmWQ)
 	* Topic 2 **Abstract Interpretation** (LG) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours08a_iabasics.pdf)
@@ -234,7 +234,7 @@ in (finalnote + ccgrade)/2
 
 # Week 11 (from Monday, nov 16th)
 
-- :book: Course session #11: Monday 16/11/2020, 13:30. (Laure Gonnord)
+- :book: Course session #12: Monday 16/11/2020, 13:30. (Laure Gonnord)
 	* At 13:30 on  [BBB "portail des études"](https://etudes.ens-lyon.fr/mod/bigbluebuttonbn/view.php?id=89490)
 	* Topic 2 **Abstract Interpretation 2/2** (LG) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours08a_iabasics.pdf) and [slides2](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours08b_infinitelattice.pdf).
 	*  Videos [video4, en, proof, implem](https://youtu.be/8OM0PBG5N1s)  (10 min), [video 5 (infinite lattices)](https://youtu.be/hY05VqrAAes), [video 6 (strategies and tools)](https://youtu.be/otNsyWGaXrM)
@@ -256,3 +256,18 @@ in (finalnote + ccgrade)/2
     * [BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
     * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf) 
     * Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before December 10th, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
+
+
+# Week 13 (from Monday, November 30th)
+
+- :book: Course session #13: Monday 30/11/2020, 13:30. (Ludovic Henrio)
+	* At 13:30 on  TBA
+    * Topic 2 **Semantics for parallelism 1/2** (LH) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours10_parallelism.pdf)
+	* Videos [video1 (en, 10min)](https://youtu.be/BhKAqYiGDqE), [video2 (en, 43 min)](https://youtu.be/U7VJZVgLRI8), [video3 (en, 15min)](https://youtu.be/r01nuqfTzgw)
+
+- :hammer: Lab session #8 Thursday 03/12/2020, 10:15 (Paul Iannetta and Yannick Zakowski) 
+    * TOPIC **Abstract Interpretation 2/2**
+    * [BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
+    * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp7.pdf) 
+    * Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before December 10th, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
+
