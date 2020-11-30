@@ -261,7 +261,7 @@ in (finalnote + ccgrade)/2
 # Week 13 (from Monday, November 30th)
 
 - :book: Course session #13: Monday 30/11/2020, 13:30. (Ludovic Henrio)
-	* At 13:30 on  TBA
+	* At 13:30 on [(New) BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
     * Topic 2 **Semantics for parallelism 1/2** (LH) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours10_parallelism.pdf)
 	* Videos [video1 (en, 10min)](https://youtu.be/BhKAqYiGDqE), [video2 (en, 43 min)](https://youtu.be/U7VJZVgLRI8), [video3 (en, 15min)](https://youtu.be/r01nuqfTzgw)
 
