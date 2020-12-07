@@ -278,7 +278,7 @@ in (finalnote + ccgrade)/2
 - :book: Course session #13: Monday 07/12/2020, 13:30. (Ludovic Henrio)
 	* At 13:30 on [(New) BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
     * Topic 2 **Semantics for parallelism 2/2** (LH) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours10_parallelism.pdf)
-	* Videos [video1 (en, 30 min)](https://youtu.be/U7VJZVgLRI8), [video2 (en, 27 min)](https://youtu.be/7CzK-QzK7Mo), [video3 (en, lab presentation, 25 min)](https://youtu.be/k1FDhboyM1E).
+	* Videos [video4 (en, 30 min)](https://youtu.be/1P_jF_T6XH8), [video5 (en, 27 min)](https://youtu.be/7CzK-QzK7Mo), [video6 (en, lab presentation, 25 min)](https://youtu.be/k1FDhboyM1E).
 	
 
 - :hammer: Lab session TBA
