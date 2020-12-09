@@ -280,6 +280,8 @@ in (finalnote + ccgrade)/2
     * Topic 2 **Semantics for parallelism 2/2** (LH) 	[slides (en)](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_cours10_parallelism.pdf)
 	* Videos [video4 (en, 30 min)](https://youtu.be/1P_jF_T6XH8), [video5 (en, 27 min)](https://youtu.be/7CzK-QzK7Mo), [video6 (en, lab presentation, 25 min)](https://youtu.be/k1FDhboyM1E).
 	
-
-- :hammer: Lab session TBA
-
+- :hammer: Lab session #9 Thursday 09/12/2020, 10:15 (Paul Iannetta and Gabriel Radanne) 
+    * TOPIC **Futures**
+    * [BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
+    * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp8.pdf) 
+    * Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before December 18th, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
