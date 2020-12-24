@@ -11,7 +11,7 @@ in (finalnote + ccgrade)/2
 ```
 * The partial exam is this academic year replaced by a  written housework ("DM").
 
-* The final exam will be done "physically", on January 14th, 2021. It will lats 3 hours. No authorized documents. See below for more instructions.
+* The final exam will be done "physically", on January 14th, 2021. It will last three (3) hours. No authorized documents. See below for more instructions.
 
 
 # Week 1: 
@@ -293,4 +293,4 @@ in (finalnote + ccgrade)/2
 
 - :clapper: For the final exam, no authorized document. Useful definitions and notations will be given as a companion printed file.
 
-- :book: as an example, see last year's [exam](https://compil-lyon.gitlabpages.inria.fr/cap20/exam_cap_2019-20.pdf) and the [associated companion file](https://compil-lyon.gitlabpages.inria.fr/cap20/capsheet_1920.pdf)
+- :book: As an example, see last year's [exam](https://compil-lyon.gitlabpages.inria.fr/cap20/exam_cap_2019-20.pdf) and the [associated companion file](https://compil-lyon.gitlabpages.inria.fr/cap20/capsheet_1920.pdf).
