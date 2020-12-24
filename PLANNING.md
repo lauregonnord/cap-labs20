@@ -9,7 +9,10 @@ _Academic "covid-19" first semester 2020-2021_
 let ccgrade = average(Lab3, Lab5, Lab_IA, Lab_futures, partial)
 in (finalnote + ccgrade)/2
 ```
-* TBA : The partial exam is this academic year replaced by a  written housework ("DM").
+* The partial exam is this academic year replaced by a  written housework ("DM").
+
+* The final exam will be done "physically", on January 14th, 2021. It will lats 3 hours. No authorized documents. See below for more instructions.
+
 
 # Week 1: 
 
@@ -285,3 +288,9 @@ in (finalnote + ccgrade)/2
     * [BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
     * [pdf](https://compil-lyon.gitlabpages.inria.fr/cap20/cap_tp8.pdf) 
     * Lab deposit on [TOMUSS-fr](https://tomuss-fr.univ-lyon1.fr/2020/UE/CAP2021) before December 18th, 2020, 6pm Paris time. Email deposits are **strictly forbidden**
+
+# Final Exam (Jan 14th, 2021)
+
+- :clapper: For the final exam, no authorized document. Useful definitions and notations will be given as a companion printed file.
+
+- :book: as an example, see last year's [exam](https://compil-lyon.gitlabpages.inria.fr/cap20/exam_cap_2019-20.pdf) and the [associated companion file](https://compil-lyon.gitlabpages.inria.fr/cap20/capsheet_1920.pdf)
