@@ -11,7 +11,8 @@ in (finalnote + ccgrade)/2
 ```
 * The partial exam is this academic year replaced by a  written housework ("DM").
 
-* The final exam will be done "physically", on January 14th, 2021. It will last three (3) hours. No authorized documents. See below for more instructions.
+* The final exam will be done *remotely*, on January 14th, 2021. It will last three (3) hours. Instructions have been given by email. Meeting on BBB at 13h50.
+
 
 
 # Week 1: 
