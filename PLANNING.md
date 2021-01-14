@@ -291,6 +291,9 @@ in (finalnote + ccgrade)/2
 
 # Final Exam (Jan 14th, 2021)
 
-- :clapper: For the final exam, no authorized document. Useful definitions and notations will be given as a companion printed file.
-
 - :book: As an example, see last year's [exam](https://compil-lyon.gitlabpages.inria.fr/cap20/exam_cap_2019-20.pdf) and the [associated companion file](https://compil-lyon.gitlabpages.inria.fr/cap20/capsheet_1920.pdf).
+
+- :clapper: For the final exam, no authorized document. 
+  * Useful definitions and notations can be found in [the companion file](https://compil-lyon.gitlabpages.inria.fr/cap20/capsheet_2021.pdf).
+  * [BBB ENS](https://webconference2.ens-lyon.fr/b/gab-by3-zmw-11m)
+  
